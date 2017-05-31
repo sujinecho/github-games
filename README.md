@@ -10,3 +10,5 @@ This fun open source game was cloned from: https://github.com/jakesgordon/javasc
 
 It uses
 <a href="https://github.com/dpiccone/ng-pageslide">ng-pageslide</a> to show and hide content
+
+[stats.js](stats.js)
