@@ -7,3 +7,6 @@ You can play the game at: https://sujinecho.github.io/github-games/
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+
+It uses
+<a href="https://github.com/dpiccone/ng-pageslide">ng-pageslide</a> to show and hide content
